@@ -1,0 +1,1 @@
+A Pomodoro Clock project as part of the projects for freeCodeCamp. I wanted to make it more visually appealing than a straightforward clock, so I added CSS animations to create an hourglass effect.
